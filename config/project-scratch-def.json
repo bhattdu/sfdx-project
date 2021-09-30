@@ -1,12 +1,15 @@
 {
-  "orgName": "DreamHouse",
+  "orgName": "Dreamhouse",
   "edition": "Developer",
   "features": [],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
-      "mobileSettings": {
+
+
+   
+    "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
   }
